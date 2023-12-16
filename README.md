@@ -177,7 +177,10 @@ Schools will be added by minister and make an order for a school, then after sch
 	System documentation is updated to reflect any changes or enhancements made to the system.
 
 
+Admin Credentials
+================
 
-
+Email: admin@gmail.com
+Password: admin
 
 
