@@ -23,3 +23,8 @@ Inyange admin page to be to coordinate and monitor everything being done in the 
 ![Screenshot 2023-12-16 180933](https://github.com/AGwillmkawy1/Milk-distribution-system/assets/93640193/87c57b74-5c9d-4f5b-ab2a-82a6b6220c03)
 
 
+View shcools added by Minister because He/she is the one who add schools where Milk will be delivered
+![Screenshot 2023-12-16 181252](https://github.com/AGwillmkawy1/Milk-distribution-system/assets/93640193/800b066f-8635-47e7-b520-c583c2740499)
+
+
+
