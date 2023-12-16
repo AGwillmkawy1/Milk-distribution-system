@@ -130,6 +130,54 @@ RESOURCES USED IN THE PROJECT
 	Documentation Tools: Google Docs for creating project documentation
 
 
+DATABSE SCHEMA
+![Screenshot 2023-12-16 204740](https://github.com/AGwillmkawy1/Milk-distribution-system/assets/93640193/b890272a-34ff-4206-98e7-686e6d11f71a)
+
+
+
+                                                USER DOCUMENTATION
+Admin should login using email and password that he was assigned, and then starts to create minister who will manage schools and approve milk distribution from a certain distributor, and add schools.
+Schools will be added by minister and make an order for a school, then after school will approve that order and distributor will deliver the milk with a certain quantity. And when the milk reach to them they will give feedback.
+
+                                                                               	TECHNICAL DOCUMENTATION
+	Architecture
+	The student registration systems follow the Model-View-Controller (MVC) architectural pattern
+	The backend is implemented using Java programming language and Spring boot framework
+	The frontend is developed using HTML, CSS and JavaScript
+	Development Environment
+	Operating system: Windows 11
+	IDE: Visual studio code
+	Database: MySQL
+	Backend Implementation
+	The backend is implemented using Java and Spring boot
+	The project is organized into different packages such as controllers, services, models and repositories.
+	Data persistence is achieved using HTML, CSS and JavaScript
+	Input validation and error handling are implemented using Spring validation and exception handling mechanisms
+	Frontend Implementation
+	The frontend is developed using HTML, CSS and JavaScript
+	Thyme leaf template engine is used for server-side rendering of dynamic webpages
+	Bootstrap is used for responsive
+	 Client-side form validation is implemented using JavaScript 
+	Database Implementation
+	The database is implemented using MySQL
+	The database Schema is used to store student information and their login credentials
+	Security
+	User authentication and authorization are implemented using spring security
+	Access control is enforced based on user role and permission
+	Deployment
+	Configuration files such as application.properties is used to specify database connection settings and other system properties.
+	Testing
+	Integration testing is conducted to test the interaction between different pages of the system.
+	Logging and Error handling
+	Custom error page or exceptions handlers are implemented to provide a user-friendly experience in case of errors.
+	Errors and exceptions are logged with appropriate severity and error messages.
+	Maintenance
+	The system is maintained using version control systems such as Git to track changes.
+	Regular updates and bug fixes are performed to ensure system stability and security.
+	System documentation is updated to reflect any changes or enhancements made to the system.
+
+
+
 
 
 
