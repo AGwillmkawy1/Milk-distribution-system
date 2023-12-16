@@ -18,3 +18,8 @@ Approving orders on the order interface
 
 Adding new User to be able to use our system
 ![Screenshot 2023-12-16 180457](https://github.com/AGwillmkawy1/Milk-distribution-system/assets/93640193/f1de3854-865f-492a-aabc-1143c89955e1)
+
+Inyange admin page to be to coordinate and monitor everything being done in the system
+![Screenshot 2023-12-16 180933](https://github.com/AGwillmkawy1/Milk-distribution-system/assets/93640193/87c57b74-5c9d-4f5b-ab2a-82a6b6220c03)
+
+
