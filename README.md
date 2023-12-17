@@ -35,14 +35,14 @@ Documentation
 ID: 23608
 NAMES: Jean Plaubert RUKUNDO
 
-Milk Distribution System
-PROJECT REQUIREMENTS
+## Milk Distribution System
+## PROJECT REQUIREMENTS
 
 THE PURPOSE OF THE PROJECT
 Coordinating and monitoring Milk being distributed in Schools for students to be able to access a cup of Milk in schools even though some student may be able to drink milk home but then each student at school get a cup of milk for health as future professionals, and also manage the schools, distributors and minister who is in charge of schools to make the work easier and automated.
-EXPECTED OUTCOME
-	Manages to add schools
-	Manages Milk being delivered in schools
+## EXPECTED OUTCOME
+-	Manages to add schools
+-	Manages Milk being delivered in schools
 	Manages Distributor being deliver milk in school
 	Manages Schools to approve milk being delivered.
 SPECIFIC CONSTRAINTS OR LIMITATIONS
