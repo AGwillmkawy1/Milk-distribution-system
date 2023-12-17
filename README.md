@@ -180,3 +180,6 @@ Minister Credentials
 - Password: 539476-582405
 
 
+App Link
+========
+Here's the link: https://23608-inyange-milk-distribution-app.up.railway.app/
