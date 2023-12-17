@@ -166,14 +166,16 @@ Schools will be added by minister and make an order for a school, then after sch
 
 Admin Credentials
 ================
-User: Admin
-Email: admin@gmail.com
-Password: admin
+- User: Admin
+- Email: admin@gmail.com
+- Password: admin
 
 
 
-User: Minister
-Email: engplaubert@gmail.com
-Password: 539476-582405
+
+
+- User: Minister
+- Email: engplaubert@gmail.com
+- Password: 539476-582405
 
 
